@@ -1,3 +1,8 @@
+This is a fork of the playit.gg client for use in QuantumLauncher
+There won't be any changes made, but rather this is a slowly-updating, "stable" version of the original.
+
+# Original Readme:
+
 # The playit program
 
 Looking for version 0.9.x? See [this branch](https://github.com/playit-cloud/playit-agent/tree/v0.9).
